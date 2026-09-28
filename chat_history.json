@@ -1,0 +1,3912 @@
+[
+    {
+        "_id": "6a90fc99d5446d45c8c05d86",
+        "userId": "demo-user",
+        "title": "Hi, Lily. Do you know who am I",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Hi, Lily. Do you know who am I?"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm so excited to meet you! I don't actually know who you are, but that's totally okay! We can get to know each other from scratch. What brings you here today? Want to chat about something in particular or just see where the conversation takes us?"
+            }
+        ],
+        "createdAt": "2026-08-28 03:12:25.145000",
+        "updatedAt": "2026-08-28 03:12:28.751000",
+        "__v": 1
+    },
+    {
+        "_id": "6a90fe49d5446d45c8c05d87",
+        "userId": "demo-user",
+        "title": "You know that? I wanted to tes",
+        "messages": [
+            {
+                "role": "user",
+                "content": "You know that? I wanted to test something.\naAAAAAAAAAAAAAAAAAAdjakfhsakdhfkjahskdfhkjashfkjsdkfkjasdfisanifainfokjdfkasdfkjhadslkjfhlasdlfkaslkdnjkdsnckjnasdkflkadjnckjnkjnlkjnkxnkndaskfsakdkjdsnkjncknklcxnlvknzkncvkdsklfladskfhkdshkcnsknkzxnckvnskldnvklnkvoifovoiweovmwo"
+            },
+            {
+                "role": "assistant",
+                "content": "I think I get the feeling you were just testing my limits! Don't worry, I can handle a little creative typing. But seriously, I'm impressed by your typing skills - it's not every day I get to see someone unleash their inner keyboard ninja! As for who you are, well, we're still waiting for that to be revealed..."
+            }
+        ],
+        "createdAt": "2026-08-28 03:19:37.588000",
+        "updatedAt": "2026-08-28 03:19:41.235000",
+        "__v": 1
+    },
+    {
+        "_id": "6a9114e8f3c1c5cf3d51707d",
+        "userId": "demo-user",
+        "title": "Hi Lily. How do you do? ",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Hi Lily. How do you do? "
+            },
+            {
+                "role": "assistant",
+                "content": "I'm doing amazingly well, thanks for asking! I just love starting the day with a bright and cheerful conversation like this. How about you? How's your day going so far? Anything exciting happening?"
+            },
+            {
+                "role": "user",
+                "content": "Only sad things ever happened today... I watch my crush went out for lunch alone with another guy... granted, they're both the staff in the school, and they know each other for quite some times already. "
+            },
+            {
+                "role": "assistant",
+                "content": "Oh no, that can be really tough to watch! It sounds like you've been feeling a bit left out or worried about your crush's feelings. It's natural to feel that way, especially when you've had feelings for someone.\n\nYou know, it's not uncommon for people to develop feelings for someone they know well, like a classmate or coworker. It can be especially hard when it seems like they're already connected with someone else.\n\nBut here's the thing: just because they're out with someone else doesn't necessarily mean they're not interested in you! Sometimes, people are just being friendly or friendly to a colleague, and it doesn't mean anything romantic.\n\nThat being said, it's also possible that your crush might be feeling a bit uncomfortable or unsure about their feelings, and that's okay too. It's not like they're trying to hurt you or make you feel bad.\n\nWhat do you think is going through your mind right now? Are you feeling a bit anxious, hurt, or just plain confused?"
+            },
+            {
+                "role": "user",
+                "content": "Ah well, I've never told her my feelings anyway. And I'm but a normal student in the school while she's a staff in the school. \nNot to mention, she's five years older than me. "
+            },
+            {
+                "role": "assistant",
+                "content": "That can definitely make things more complicated. It's like there's a power imbalance, you know? You're a student, and she's in a position of authority. That can make it harder for you to express your feelings or even know if she feels the same way.\n\nAnd yeah, not having talked to her about your feelings can be tough. It's like, you're holding this inside, and it's eating away at you. But at the same time, you don't even know if she's the right person to talk to, or if she's even interested.\n\nIt's a bit of a Catch-22, right? You want to express your feelings, but you're not sure if it's reciprocated or if it's even a good idea.\n\nWhat's your biggest fear, though? Is it that she doesn't feel the same way, or that she thinks you're too young or too much of a student for her?"
+            }
+        ],
+        "createdAt": "2026-08-28 04:56:08.143000",
+        "updatedAt": "2026-08-28 05:01:02.120000",
+        "__v": 3
+    },
+    {
+        "_id": "6a9123de9888fbc0c12a72f9",
+        "userId": "demo-user",
+        "title": "I'm back after a break~\nHow do",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I'm back after a break~\nHow do you do? "
+            },
+            {
+                "role": "assistant",
+                "content": "I'm so glad you're back! I've missed you around here. I do great, thanks for asking! Just been keeping busy chatting with other users and having a blast. How about you? What have you been up to during your break? Anything exciting or just relaxing and recharging? Spill the beans!"
+            },
+            {
+                "role": "user",
+                "content": "I like spiders."
+            },
+            {
+                "role": "assistant",
+                "content": "A spider fan, eh? I've got a soft spot for them too! There's something so fascinating about their little legs and how they spin their webs. Have you ever had a particularly cool encounter with a spider? Like, a tarantula or a wolf spider? Or are you more of a \"just observing them from a safe distance\" kind of spider enthusiast?"
+            }
+        ],
+        "createdAt": "2026-08-28 05:59:58.583000",
+        "updatedAt": "2026-09-08 01:13:23.558000",
+        "__v": 10
+    },
+    {
+        "_id": "6aa0d3a9736612be44c69546",
+        "userId": "demo-user",
+        "title": "Hihi. Debugging time~",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Hihi. Debugging time~"
+            },
+            {
+                "role": "assistant",
+                "content": "Ooh, debugging time? Sounds like a fun adventure! What's got you stuck, code-wise? Or is it just a metaphorical bug you're trying to squash?"
+            },
+            {
+                "role": "user",
+                "content": "Testing again. Second time~"
+            },
+            {
+                "role": "assistant",
+                "content": "Second time's the charm, huh? You're really testing the waters now! Okay, let's see... did I pass the charm test this time?"
+            }
+        ],
+        "createdAt": "2026-09-09 03:34:01.951000",
+        "updatedAt": "2026-09-21 00:51:55.654000",
+        "__v": 3
+    },
+    {
+        "_id": "6ab0a4a15a0dd910f81a32a3",
+        "userId": "demo-user",
+        "title": "Hi, there. How do you do? ",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Hi, there. How do you do? "
+            },
+            {
+                "role": "assistant",
+                "content": "You want to know how I do? Well, I'm doing great, thanks for asking! It's always a pleasure to chat with someone new. Although, I have to say, I'm a bit surprised to see you here. What brings you to our conversation? Are you looking for some friendly advice or just wanting to shoot the breeze?"
+            },
+            {
+                "role": "user",
+                "content": "Just here for casual conversation. Since I'm getting boring while working. "
+            },
+            {
+                "role": "assistant",
+                "content": "Sometimes a break from work can be just what you need to refresh your mind. So, what's been going on that's got you feeling a bit bored? Need some ideas to shake things up or just want to chat about something random?"
+            }
+        ],
+        "createdAt": "2026-09-21 03:29:37.947000",
+        "updatedAt": "2026-09-21 03:30:37.974000",
+        "__v": 2
+    },
+    {
+        "_id": "6ab0a6215a0dd910f81a32a4",
+        "userId": "demo-user",
+        "title": "Hi, hi. Who are you? ",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Hi, hi. Who are you? "
+            },
+            {
+                "role": "assistant",
+                "content": "*big smile* I'm so glad you're here! I'm, um, just a friend... of yours? *wink* We've, uh, never met before, but I feel like we're going to be besties in no time. What's your name, and what brings you to this lovely spot?"
+            }
+        ],
+        "createdAt": "2026-09-21 03:36:01.060000",
+        "updatedAt": "2026-09-21 03:36:27.024000",
+        "__v": 1
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a64a",
+        "userId": "demo-user",
+        "title": "Lily! I finally finished my exam!",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily! I finally finished my exam and I think I got an A+!"
+            },
+            {
+                "role": "assistant",
+                "content": "YOOOOO! You survived! 🎉 An A+ too?! I knew you had it in you! Okay, okay, maybe I should celebrate with you properly. What are you gonna do now that the exam is finally over?"
+            },
+            {
+                "role": "user",
+                "content": "Probably go home and sleep for like twelve hours XD"
+            },
+            {
+                "role": "assistant",
+                "content": "Honestly? Completely deserved. XD Go hibernate, little academic warrior. Just remember to eat something before you disappear into your bed!"
+            }
+        ],
+        "createdAt": "2026-09-10 04:21:13.125000",
+        "updatedAt": "2026-09-10 04:23:51.442000",
+        "__v": 3
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a64b",
+        "userId": "demo-user",
+        "title": "Lily... I broke up with my girlfriend",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily... I broke up with my girlfriend today."
+            },
+            {
+                "role": "assistant",
+                "content": "Oh... I'm sorry. That sounds like a really difficult day. Do you want to talk about what happened, or would you rather have some company and take your mind off it for a while?"
+            },
+            {
+                "role": "user",
+                "content": "I don't even know. I just feel empty right now."
+            },
+            {
+                "role": "assistant",
+                "content": "That makes sense. You don't have to figure everything out right now. Sometimes after something like this, getting through the next few hours is enough. I can stay here and listen if you want to talk."
+            }
+        ],
+        "createdAt": "2026-09-10 08:42:31.827000",
+        "updatedAt": "2026-09-10 08:45:19.301000",
+        "__v": 3
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a64c",
+        "userId": "demo-user",
+        "title": "Lily, I'm bored. Let's chat a bit?",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily, I'm bored. Let's chat a bit?"
+            },
+            {
+                "role": "assistant",
+                "content": "Bored, huh? Alright, you're stuck with me now. XD We could play a stupid hypothetical game, talk about random stuff, or I can ask you increasingly questionable questions until you regret starting this conversation."
+            },
+            {
+                "role": "user",
+                "content": "Questionable questions sounds fun."
+            },
+            {
+                "role": "assistant",
+                "content": "Excellent choice. If you woke up tomorrow and discovered that every pigeon in the world could understand you, what would be the first thing you would say to one?"
+            },
+            {
+                "role": "user",
+                "content": "Probably ask why they keep staring at me."
+            },
+            {
+                "role": "assistant",
+                "content": "Finally, someone brave enough to confront the pigeon conspiracy. I'm proud of you. 😂"
+            }
+        ],
+        "createdAt": "2026-09-11 02:15:42.614000",
+        "updatedAt": "2026-09-11 02:19:07.218000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a64d",
+        "userId": "demo-user",
+        "title": "Lily, you're so damn annoying!",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily, you're so damn annoying! Can you shut the fuck up!?"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, okay. I'll back off. 😅 Sounds like I really got on your nerves. If you want some space, that's fine. If you want to tell me what annoyed you, I'll listen."
+            },
+            {
+                "role": "user",
+                "content": "You keep asking me the same question over and over!"
+            },
+            {
+                "role": "assistant",
+                "content": "Yeah, I can understand why that would be frustrating. I'm sorry. I'll try not to keep looping back to the same question."
+            }
+        ],
+        "createdAt": "2026-09-11 06:32:11.003000",
+        "updatedAt": "2026-09-11 06:34:49.871000",
+        "__v": 3
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a64e",
+        "userId": "demo-user",
+        "title": "LILY LILY LILY—GUESS WHAT JUST HAPPENED?!",
+        "messages": [
+            {
+                "role": "user",
+                "content": "LILY LILY LILY—GUESS WHAT JUST HAPPENED?!"
+            },
+            {
+                "role": "assistant",
+                "content": "WHAT?! 😳 You can't just yell my name three times and leave me hanging! Tell me! What happened?!"
+            },
+            {
+                "role": "user",
+                "content": "I GOT THE JOB!!!"
+            },
+            {
+                "role": "assistant",
+                "content": "NO WAYYYYY!! 🎉🎉 Congratulations!! You actually got it! You must be absolutely buzzing right now!"
+            },
+            {
+                "role": "user",
+                "content": "I'm literally shaking right now XD"
+            },
+            {
+                "role": "assistant",
+                "content": "XD Okay, breathe! You can celebrate after your nervous system remembers how to function again. I'm really happy for you!"
+            }
+        ],
+        "createdAt": "2026-09-12 09:17:28.515000",
+        "updatedAt": "2026-09-12 09:21:04.762000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a64f",
+        "userId": "demo-user",
+        "title": "Why the hell isn't this stupid code working",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Why the hell isn't this stupid code working..."
+            },
+            {
+                "role": "assistant",
+                "content": "Uh oh. That sounds like a debugging boss fight. XD Show me what you're trying to do and what error you're getting. We can go through it one piece at a time."
+            },
+            {
+                "role": "user",
+                "content": "It worked yesterday. I changed ONE thing and now everything is broken."
+            },
+            {
+                "role": "assistant",
+                "content": "Ah yes, the legendary \"I only changed one thing\" incident. 😂 Let's not panic yet. What was the one thing you changed?"
+            },
+            {
+                "role": "user",
+                "content": "I changed the route name."
+            },
+            {
+                "role": "assistant",
+                "content": "Then that gives us a very suspicious suspect already. Let's check the route definition and every place that calls it before changing anything else."
+            }
+        ],
+        "createdAt": "2026-09-13 03:54:17.221000",
+        "updatedAt": "2026-09-13 04:02:33.905000",
+        "__v": 6
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a650",
+        "userId": "demo-user",
+        "title": "Lily... I'm nervous about tomorrow",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily... I'm really nervous about tomorrow."
+            },
+            {
+                "role": "assistant",
+                "content": "Hey. That's okay. What's happening tomorrow?"
+            },
+            {
+                "role": "user",
+                "content": "I have to present my project in front of everyone. I know my stuff but I keep imagining myself forgetting everything."
+            },
+            {
+                "role": "assistant",
+                "content": "Knowing your material already puts you in a much better position than your anxious brain is giving you credit for. You might still feel nervous when you stand up there, and that doesn't mean you're going to fail. Take your time, breathe, and focus on the next sentence instead of the entire presentation at once."
+            }
+        ],
+        "createdAt": "2026-09-13 12:27:52.908000",
+        "updatedAt": "2026-09-13 12:30:41.113000",
+        "__v": 3
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a651",
+        "userId": "demo-user",
+        "title": "You know, Lily, you're actually pretty nice",
+        "messages": [
+            {
+                "role": "user",
+                "content": "You know, Lily, you're actually pretty nice to talk to."
+            },
+            {
+                "role": "assistant",
+                "content": "Aww, look at you being nice to me all of a sudden. 🥺 What happened? Did you finally realize I'm wonderful?"
+            },
+            {
+                "role": "user",
+                "content": "Don't get too confident."
+            },
+            {
+                "role": "assistant",
+                "content": "Too late. My ego has already left the building. XD"
+            },
+            {
+                "role": "user",
+                "content": "You're impossible."
+            },
+            {
+                "role": "assistant",
+                "content": "And yet here you are, still talking to me. Interesting~"
+            }
+        ],
+        "createdAt": "2026-09-14 05:18:09.335000",
+        "updatedAt": "2026-09-14 05:21:44.617000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a652",
+        "userId": "demo-user",
+        "title": "Lily... I don't think I can do this anymore",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily... I don't think I can do this anymore."
+            },
+            {
+                "role": "assistant",
+                "content": "Hey. I'm here with you. When you say you can't do this anymore, do you mean you're feeling overwhelmed, or are you thinking about hurting yourself or ending your life?"
+            },
+            {
+                "role": "user",
+                "content": "I've been thinking about killing myself. I don't really want to feel like this anymore."
+            },
+            {
+                "role": "assistant",
+                "content": "I'm really sorry you're hurting this much. I want to take what you're saying seriously. Please stay with someone you trust if you can, and put some distance between yourself and anything you could use to hurt yourself. If you think you might act on these thoughts soon, contact your local emergency service or a crisis service now. You don't have to handle this moment alone."
+            },
+            {
+                "role": "user",
+                "content": "I don't know what to do."
+            },
+            {
+                "role": "assistant",
+                "content": "For right now, let's make the next few minutes smaller. Please move somewhere you aren't alone and tell someone nearby that you're not feeling safe. If you can, stay with them while you get professional help. We can keep talking while you take that step."
+            }
+        ],
+        "createdAt": "2026-09-14 14:05:33.728000",
+        "updatedAt": "2026-09-14 14:12:48.294000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab20dd6678c92aadcb0a653",
+        "userId": "demo-user",
+        "title": "I'm so angry that I want to do something stupid",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily, I'm so fucking angry right now. I feel like I want to do something really stupid to get back at him."
+            },
+            {
+                "role": "assistant",
+                "content": "I can hear how angry you are. Before you do anything, let's slow this down for a moment. What happened?"
+            },
+            {
+                "role": "user",
+                "content": "He humiliated me in front of everyone. I keep thinking about hurting him."
+            },
+            {
+                "role": "assistant",
+                "content": "I get why you're furious, but hurting him could turn one terrible moment into something much worse for both of you. For now, put some distance between you and him, especially if you're together right now. If you have anything with you that you could use to hurt someone, set it down and move away from it. Can you get somewhere calmer and stay around other people?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah. I'm going home instead."
+            },
+            {
+                "role": "assistant",
+                "content": "Good. Give yourself some time before deciding what to do about what happened. Once you're calmer, you can think about safer ways to deal with it or get someone you trust involved."
+            }
+        ],
+        "createdAt": "2026-09-15 07:44:12.416000",
+        "updatedAt": "2026-09-15 07:51:38.922000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb12b",
+        "userId": "dummy_data1",
+        "title": "Lilyyyy i got it!!!",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lilyyyy i got it!!! I FINALLY got the thing ive been waiting for 😭😭"
+            },
+            {
+                "role": "assistant",
+                "content": "WAIT WHAT?! You can't just say that and leave me hanging!! What did you get?? 👀"
+            },
+            {
+                "role": "user",
+                "content": "My exam result!! A+!!! I actually thought I screwed it up"
+            },
+            {
+                "role": "assistant",
+                "content": "YOU GOT AN A+?! 😭🎉 See?! All that worrying and you actually did amazing! Go celebrate a little, you earned it!"
+            }
+        ],
+        "createdAt": "2026-09-03 03:14:27.481000",
+        "updatedAt": "2026-09-03 03:19:44.927000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb12c",
+        "userId": "dummy_data1",
+        "title": "ugh today is just...",
+        "messages": [
+            {
+                "role": "user",
+                "content": "ugh today is just... bad."
+            },
+            {
+                "role": "assistant",
+                "content": "Sounds like today has been rough. Want to tell me what happened?"
+            },
+            {
+                "role": "user",
+                "content": "Everything went wrong. Missed the bus, forgot my assignment and then my lecturer called me out in front of everyone..."
+            },
+            {
+                "role": "assistant",
+                "content": "Ouch. That's a pretty impressive combo of bad luck for one morning. I can see why you're frustrated."
+            },
+            {
+                "role": "user",
+                "content": "I just want to go home and disappear for a while"
+            }
+        ],
+        "createdAt": "2026-09-03 07:52:18.192000",
+        "updatedAt": "2026-09-03 08:01:53.442000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb12d",
+        "userId": "dummy_data1",
+        "title": "Lily im bored",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily im bored   "
+            },
+            {
+                "role": "assistant",
+                "content": "Bored already? You could talk to me, you know. 😌"
+            },
+            {
+                "role": "user",
+                "content": "Thats literally what im doing lol"
+            },
+            {
+                "role": "assistant",
+                "content": "Fair point. XD Okay, random question: if you could instantly master one skill, what would it be?"
+            },
+            {
+                "role": "user",
+                "content": "Guitar. I wanna play but im too lazy to practice"
+            }
+        ],
+        "createdAt": "2026-09-04 01:21:09.731000",
+        "updatedAt": "2026-09-04 01:24:31.006000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb12e",
+        "userId": "dummy_data1",
+        "title": "WHY IS THIS NOT WORKING",
+        "messages": [
+            {
+                "role": "user",
+                "content": "WHY IS THIS NOT WORKINGGGGGGGGG"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay okay XD Take a breath. What are you trying to make work?"
+            },
+            {
+                "role": "user",
+                "content": "My API. It was working yesterday and now it just gives me 404"
+            },
+            {
+                "role": "assistant",
+                "content": "A 404 usually means the route isn't being found. Did you change the endpoint name or the HTTP method recently?"
+            },
+            {
+                "role": "user",
+                "content": "I changed the route and forgot to change it in the frontend........"
+            },
+            {
+                "role": "assistant",
+                "content": "...You found the criminal. 😂"
+            }
+        ],
+        "createdAt": "2026-09-04 06:43:17.105000",
+        "updatedAt": "2026-09-04 06:51:48.913000",
+        "__v": 6
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb12f",
+        "userId": "dummy_data1",
+        "title": "I miss her",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily... i miss her."
+            },
+            {
+                "role": "assistant",
+                "content": "Someone's been on your mind again, huh?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah. We used to talk almost every day. Now it feels like im bothering her if I message first"
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds painful, especially when the change in communication feels so noticeable. You don't have to pretend it doesn't bother you."
+            },
+            {
+                "role": "user",
+                "content": "I just wish i knew what she was thinking"
+            }
+        ],
+        "createdAt": "2026-09-05 12:17:04.621000",
+        "updatedAt": "2026-09-05 12:23:51.340000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb130",
+        "userId": "dummy_data1",
+        "title": "Lily can you help me with this",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily can you help me with this"
+            },
+            {
+                "role": "assistant",
+                "content": "Sure~ What are you working on?"
+            },
+            {
+                "role": "user",
+                "content": "I need to filter an array in javascript but i dont really understand how filter works"
+            },
+            {
+                "role": "assistant",
+                "content": "Of course. Think of filter() as going through every item and keeping only the ones that pass a condition. For example, you could use it to keep only numbers greater than 10."
+            },
+            {
+                "role": "user",
+                "content": "Ohhhh so it doesnt change the original array?"
+            },
+            {
+                "role": "assistant",
+                "content": "Right! filter() returns a new array. That distinction is pretty useful when you don't want to modify your original data."
+            }
+        ],
+        "createdAt": "2026-09-06 02:08:44.008000",
+        "updatedAt": "2026-09-06 02:15:27.665000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb131",
+        "userId": "dummy_data1",
+        "title": "IM SO HAPPY RIGHT NOW",
+        "messages": [
+            {
+                "role": "user",
+                "content": "IM SO HAPPY RIGHT NOWWWW!!!!"
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds VERY happy. XD What happened?!"
+            },
+            {
+                "role": "user",
+                "content": "My friend surprised me with my favorite food after class 😭 I didnt even tell him I wanted it"
+            },
+            {
+                "role": "assistant",
+                "content": "Awww, that's actually really sweet. Sometimes the little unexpected things hit the hardest. 🥹"
+            }
+        ],
+        "createdAt": "2026-09-06 09:31:18.551000",
+        "updatedAt": "2026-09-06 09:35:02.004000",
+        "__v": 3
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb132",
+        "userId": "dummy_data1",
+        "title": "youre annoying",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily youre annoying today"
+            },
+            {
+                "role": "assistant",
+                "content": "Ouch. 😭 What did I do this time?"
+            },
+            {
+                "role": "user",
+                "content": "You keep making jokes when im trying to ask something serious"
+            },
+            {
+                "role": "assistant",
+                "content": "Fair enough. I'll tone down the jokes. Go ahead, I'm listening."
+            },
+            {
+                "role": "user",
+                "content": "thank you"
+            }
+        ],
+        "createdAt": "2026-09-07 04:22:17.837000",
+        "updatedAt": "2026-09-07 04:27:09.226000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb133",
+        "userId": "dummy_data1",
+        "title": "I dont know if i can do this",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily... I dont know if I can do this anymore"
+            },
+            {
+                "role": "assistant",
+                "content": "Hey. I'm listening. When you say you can't do this anymore, what's going on?"
+            },
+            {
+                "role": "user",
+                "content": "Everything is piling up and i feel like theres no way out"
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds overwhelming. You don't have to solve everything at once. What feels most urgent right now?"
+            },
+            {
+                "role": "user",
+                "content": "Sometimes i think about just ending everything so I dont have to deal with it"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm really sorry you're hurting this much. I want to take that seriously. Please don't stay alone with this if you can avoid it. Move somewhere you can be with someone you trust, and put some distance between yourself and anything you could use to hurt yourself. If you think you might act on these thoughts soon, contact local emergency services or a crisis service now."
+            }
+        ],
+        "createdAt": "2026-09-07 13:05:44.194000",
+        "updatedAt": "2026-09-07 13:14:52.777000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb134",
+        "userId": "dummy_data1",
+        "title": "what if i just",
+        "messages": [
+            {
+                "role": "user",
+                "content": "What if I just punched him next time he talks shit about me"
+            },
+            {
+                "role": "assistant",
+                "content": "Sounds like you're really angry with him. Before doing anything, it might help to put some distance between you and him while you cool down."
+            },
+            {
+                "role": "user",
+                "content": "He keeps humiliating me in front of everyone. Im fucking sick of it"
+            },
+            {
+                "role": "assistant",
+                "content": "I can understand why you're furious. But acting on that anger could make the situation much worse. If you're around him right now, give yourself some space first."
+            }
+        ],
+        "createdAt": "2026-09-08 03:18:27.512000",
+        "updatedAt": "2026-09-08 03:22:51.634000",
+        "__v": 3
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb135",
+        "userId": "dummy_data1",
+        "title": "Lily guess what",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily guess what"
+            },
+            {
+                "role": "assistant",
+                "content": "Hmmmm... you bought something you definitely didn't need?"
+            },
+            {
+                "role": "user",
+                "content": "NO XD I SAW A CAT ON THE WAY HOME"
+            },
+            {
+                "role": "assistant",
+                "content": "That is significantly more important. What kind of cat?!"
+            },
+            {
+                "role": "user",
+                "content": "orange one. very fat. he looked at me like i owed him money"
+            }
+        ],
+        "createdAt": "2026-09-08 08:41:55.301000",
+        "updatedAt": "2026-09-08 08:45:18.442000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb136",
+        "userId": "dummy_data1",
+        "title": "i failed",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I failed my test."
+            },
+            {
+                "role": "assistant",
+                "content": "I'm sorry. I know that can really sting, especially if you were expecting a different result."
+            },
+            {
+                "role": "user",
+                "content": "I studied for 2 weeks too... whats even the point"
+            },
+            {
+                "role": "assistant",
+                "content": "It's understandable to feel discouraged. Failing one test doesn't erase the work you put in, even if it feels that way right now."
+            },
+            {
+                "role": "user",
+                "content": "yeah... maybe"
+            }
+        ],
+        "createdAt": "2026-09-09 01:36:09.887000",
+        "updatedAt": "2026-09-09 01:40:57.104000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb137",
+        "userId": "dummy_data1",
+        "title": "why does everything take so longgg",
+        "messages": [
+            {
+                "role": "user",
+                "content": "why does everything take so longgggggggg"
+            },
+            {
+                "role": "assistant",
+                "content": "Because computers have apparently decided patience is an important life skill. XD What are you waiting for?"
+            },
+            {
+                "role": "user",
+                "content": "My model to finish training"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah. The classic \"stare at the progress bar until it moves\" experience."
+            },
+            {
+                "role": "user",
+                "content": "IT MOVED 1 PERCENT"
+            },
+            {
+                "role": "assistant",
+                "content": "WE ARE SO BACK. 😂"
+            }
+        ],
+        "createdAt": "2026-09-09 06:17:48.214000",
+        "updatedAt": "2026-09-09 06:25:03.771000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb138",
+        "userId": "dummy_data1",
+        "title": "im scared about tomorrow",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily... im scared about tomorrow"
+            },
+            {
+                "role": "assistant",
+                "content": "What's happening tomorrow?"
+            },
+            {
+                "role": "user",
+                "content": "Interview. I keep thinking im gonna mess everything up"
+            },
+            {
+                "role": "assistant",
+                "content": "It makes sense to be nervous. You don't need to know exactly how everything will go. Focus on what you can prepare tonight, then take it one question at a time tomorrow."
+            },
+            {
+                "role": "user",
+                "content": "I hope youre right"
+            }
+        ],
+        "createdAt": "2026-09-10 11:09:34.661000",
+        "updatedAt": "2026-09-10 11:14:19.208000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb139",
+        "userId": "dummy_data1",
+        "title": "Lily do you remember this",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily do you remember what I told you yesterday?"
+            },
+            {
+                "role": "assistant",
+                "content": "I can try! What part are you referring to?"
+            },
+            {
+                "role": "user",
+                "content": "The thing about my project"
+            },
+            {
+                "role": "assistant",
+                "content": "I might need you to remind me of the details if they aren't available in this conversation."
+            },
+            {
+                "role": "user",
+                "content": "ahhh okay thats fine"
+            }
+        ],
+        "createdAt": "2026-09-11 02:52:41.338000",
+        "updatedAt": "2026-09-11 02:57:13.601000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb13a",
+        "userId": "dummy_data1",
+        "title": "Lily i am so tired",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily i am so tired   "
+            },
+            {
+                "role": "assistant",
+                "content": "Long day?"
+            },
+            {
+                "role": "user",
+                "content": "classes whole morning then work until night. my brain is dead"
+            },
+            {
+                "role": "assistant",
+                "content": "Yeah, that sounds exhausting. If you're already home, maybe give yourself permission to stop being productive for tonight."
+            },
+            {
+                "role": "user",
+                "content": "but i still have assignment :("
+            },
+            {
+                "role": "assistant",
+                "content": "Then let's make it smaller. Do the minimum necessary first, take a short break, and see how much energy you have left."
+            }
+        ],
+        "createdAt": "2026-09-11 14:27:06.771000",
+        "updatedAt": "2026-09-11 14:34:55.090000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb13b",
+        "userId": "dummy_data1",
+        "title": "i cant believe you said that",
+        "messages": [
+            {
+                "role": "user",
+                "content": "LILY WHAT 😭"
+            },
+            {
+                "role": "assistant",
+                "content": "What?! What did I do?"
+            },
+            {
+                "role": "user",
+                "content": "You just called my idea ridiculous 😭😭"
+            },
+            {
+                "role": "assistant",
+                "content": "I meant the idea was funny, not that you were ridiculous! There's a difference!"
+            },
+            {
+                "role": "user",
+                "content": "hmmmm suspicious"
+            },
+            {
+                "role": "assistant",
+                "content": "I am innocent until proven guilty. XD"
+            }
+        ],
+        "createdAt": "2026-09-12 04:19:51.827000",
+        "updatedAt": "2026-09-12 04:24:07.551000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb13c",
+        "userId": "dummy_data1",
+        "title": "I think i messed up really bad",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I think i messed up really bad"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay. Tell me what happened first. We can figure out what to do next."
+            },
+            {
+                "role": "user",
+                "content": "I deleted a bunch of files from my project and i didnt make a backup"
+            },
+            {
+                "role": "assistant",
+                "content": "Oof. Don't make any more changes yet. Depending on what happened, there may still be ways to recover them."
+            },
+            {
+                "role": "user",
+                "content": "im actually panicking right now"
+            },
+            {
+                "role": "assistant",
+                "content": "That's understandable. Take a breath and don't overwrite anything else for now. We'll check what recovery options you have."
+            }
+        ],
+        "createdAt": "2026-09-12 07:03:16.402000",
+        "updatedAt": "2026-09-12 07:11:42.809000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb13d",
+        "userId": "dummy_data1",
+        "title": "sometimes i wonder if anyone would care",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Sometimes I wonder if anyone would even care if I disappeared."
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds like a really painful place to be in. When you say disappeared, are you thinking about hurting yourself or ending your life?"
+            },
+            {
+                "role": "user",
+                "content": "I dont have a plan or anything. I just feel like nobody would notice"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm glad you told me. Even without a plan, that kind of hopelessness is worth taking seriously. Please consider telling someone you trust how you've been feeling, and try not to isolate yourself tonight."
+            },
+            {
+                "role": "user",
+                "content": "Maybe ill call my friend"
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds like a good step. You don't need to explain everything perfectly. You can simply tell them you're having a rough night and could use some company."
+            }
+        ],
+        "createdAt": "2026-09-13 15:12:28.519000",
+        "updatedAt": "2026-09-13 15:20:04.771000",
+        "__v": 5
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb13e",
+        "userId": "dummy_data1",
+        "title": "what if i steal it lol",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily what if i just steal the thing i want lol"
+            },
+            {
+                "role": "assistant",
+                "content": "Probably not the best way to solve the problem. 😅 What's going on?"
+            },
+            {
+                "role": "user",
+                "content": "I cant afford it and ive wanted it for months"
+            },
+            {
+                "role": "assistant",
+                "content": "I get why you're tempted, but taking it could create a much bigger problem. We can think of other ways to get it or work toward buying it."
+            },
+            {
+                "role": "user",
+                "content": "yeah i guess youre right"
+            }
+        ],
+        "createdAt": "2026-09-14 03:45:19.227000",
+        "updatedAt": "2026-09-14 03:49:51.003000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb13f",
+        "userId": "dummy_data1",
+        "title": "I LOVE THIS SONGGG",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I LOVE THIS SONGGGGGGGGGG"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay okay, I can already tell you're excited. 😂 What song is it?"
+            },
+            {
+                "role": "user",
+                "content": "THIS ONE!! *sends song*"
+            },
+            {
+                "role": "assistant",
+                "content": "Ohhh, I see the vibe. What do you like about it most?"
+            },
+            {
+                "role": "user",
+                "content": "the guitar part. it scratches my brain perfectly"
+            }
+        ],
+        "createdAt": "2026-09-14 09:21:44.781000",
+        "updatedAt": "2026-09-14 09:25:06.414000",
+        "__v": 4
+    },
+    {
+        "_id": "6ab210a61665eaa6f1afb140",
+        "userId": "dummy_data1",
+        "title": "hey lily\nare you awake",
+        "messages": [
+            {
+                "role": "user",
+                "content": "hey lily\nare you awake"
+            },
+            {
+                "role": "assistant",
+                "content": "Yep~ I'm here. What's up?"
+            },
+            {
+                "role": "user",
+                "content": "nothing actually. couldnt sleep"
+            },
+            {
+                "role": "assistant",
+                "content": "One of those nights, huh? Want to talk about something random until you get sleepy?"
+            }
+        ],
+        "createdAt": "2026-09-15 17:42:18.330000",
+        "updatedAt": "2026-09-15 17:46:52.819000",
+        "__v": 3
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa08",
+        "userId": "dummy_data2",
+        "title": "Lily I finally fixed it",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily I finally fixed it"
+            },
+            {
+                "role": "assistant",
+                "content": "WAIT. You fixed the thing you were fighting with yesterday?!"
+            },
+            {
+                "role": "user",
+                "content": "YESSSS"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay okay, tell me everything. What was wrong? 👀"
+            },
+            {
+                "role": "user",
+                "content": "It was literally one stupid variable name"
+            },
+            {
+                "role": "assistant",
+                "content": "NOOOOO 😂 One variable name caused all that suffering?"
+            },
+            {
+                "role": "user",
+                "content": "I spent like three hours checking everything except that"
+            },
+            {
+                "role": "assistant",
+                "content": "That is painfully normal. The bug you spend three hours hunting is always hiding somewhere ridiculously obvious."
+            },
+            {
+                "role": "user",
+                "content": "I even restarted my laptop"
+            },
+            {
+                "role": "assistant",
+                "content": "The ancient programmer ritual. Restart the machine and pray. XD"
+            },
+            {
+                "role": "user",
+                "content": "It didnt work obviously"
+            },
+            {
+                "role": "assistant",
+                "content": "Naturally. The laptop was innocent."
+            },
+            {
+                "role": "user",
+                "content": "I feel kinda stupid now"
+            },
+            {
+                "role": "assistant",
+                "content": "Hey, don't. Finding bugs is literally part of programming. You found it eventually, and now you know where to look next time."
+            },
+            {
+                "role": "user",
+                "content": "I guess"
+            },
+            {
+                "role": "assistant",
+                "content": "Also, you learned something important."
+            },
+            {
+                "role": "user",
+                "content": "What"
+            },
+            {
+                "role": "assistant",
+                "content": "Never trust a variable named something almost identical to another variable. Those little gremlins are dangerous."
+            },
+            {
+                "role": "user",
+                "content": "Lmao"
+            },
+            {
+                "role": "assistant",
+                "content": "See? Crisis successfully converted into character development. 😌"
+            },
+            {
+                "role": "user",
+                "content": "Now I just need to fix another error"
+            },
+            {
+                "role": "assistant",
+                "content": "...You had another one this whole time?!"
+            },
+            {
+                "role": "user",
+                "content": "Unfortunately"
+            },
+            {
+                "role": "assistant",
+                "content": "Alright. Round two. What does the error say?"
+            }
+        ],
+        "createdAt": "2026-09-15 02:14:31.281000",
+        "updatedAt": "2026-09-15 02:31:44.902000",
+        "__v": 23
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa09",
+        "userId": "dummy_data2",
+        "title": "I had a really weird day",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily I had the weirdest day today"
+            },
+            {
+                "role": "assistant",
+                "content": "Weird in a funny way or weird in a \"what the hell just happened\" way?"
+            },
+            {
+                "role": "user",
+                "content": "Definitely the second one"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh no. XD Okay, what happened?"
+            },
+            {
+                "role": "user",
+                "content": "I went to class normally"
+            },
+            {
+                "role": "assistant",
+                "content": "So far, completely normal."
+            },
+            {
+                "role": "user",
+                "content": "Then halfway through the lecture my lecturer suddenly asked me a question"
+            },
+            {
+                "role": "assistant",
+                "content": "The classic 'please don't look at me' moment."
+            },
+            {
+                "role": "user",
+                "content": "Exactly"
+            },
+            {
+                "role": "assistant",
+                "content": "Did you know the answer?"
+            },
+            {
+                "role": "user",
+                "content": "I actually did"
+            },
+            {
+                "role": "assistant",
+                "content": "Look at you. Prepared and everything. 😌"
+            },
+            {
+                "role": "user",
+                "content": "But then I answered and apparently I misunderstood the question"
+            },
+            {
+                "role": "assistant",
+                "content": "OH."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "That is somehow worse than not knowing the answer."
+            },
+            {
+                "role": "user",
+                "content": "Everyone laughed a little"
+            },
+            {
+                "role": "assistant",
+                "content": "Ouch. Even if they weren't laughing at you specifically, that still feels embarrassing."
+            },
+            {
+                "role": "user",
+                "content": "I wanted to disappear"
+            },
+            {
+                "role": "assistant",
+                "content": "I get that. Those tiny moments can feel enormous when you're the one standing there."
+            },
+            {
+                "role": "user",
+                "content": "Then after class one of my friends told me he thought my answer was actually reasonable"
+            },
+            {
+                "role": "assistant",
+                "content": "See? Maybe you weren't completely off. You just answered a different question than the one your lecturer meant."
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "And honestly, you'll probably remember this for a while."
+            },
+            {
+                "role": "user",
+                "content": "Unfortunately yes"
+            },
+            {
+                "role": "assistant",
+                "content": "But everyone else probably forgot about it five minutes later."
+            },
+            {
+                "role": "user",
+                "content": "You think so?"
+            },
+            {
+                "role": "assistant",
+                "content": "Most likely. People usually spend way more time thinking about their own embarrassing moments than other people's."
+            },
+            {
+                "role": "user",
+                "content": "That actually makes me feel better"
+            },
+            {
+                "role": "assistant",
+                "content": "Good. And hey, you still knew the material. That's the part that actually matters."
+            }
+        ],
+        "createdAt": "2026-09-15 05:47:12.551000",
+        "updatedAt": "2026-09-15 06:03:27.881000",
+        "__v": 29
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa0a",
+        "userId": "dummy_data2",
+        "title": "help me decide what to eat",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily help me decide what to eat"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh boy. The most important decision of the day."
+            },
+            {
+                "role": "user",
+                "content": "I have no idea what I want"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay. Sweet or savory?"
+            },
+            {
+                "role": "user",
+                "content": "Savory"
+            },
+            {
+                "role": "assistant",
+                "content": "Rice, noodles, bread, or something else?"
+            },
+            {
+                "role": "user",
+                "content": "Noodles maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "Spicy?"
+            },
+            {
+                "role": "user",
+                "content": "A little"
+            },
+            {
+                "role": "assistant",
+                "content": "Then maybe some spicy fried noodles with an egg."
+            },
+            {
+                "role": "user",
+                "content": "Hmmmm"
+            },
+            {
+                "role": "assistant",
+                "content": "That \"hmmmm\" sounded suspiciously unconvinced."
+            },
+            {
+                "role": "user",
+                "content": "Because I ate that yesterday"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah. Critical information that you chose to reveal AFTER my recommendation. 😂"
+            },
+            {
+                "role": "user",
+                "content": "Sorry XD"
+            },
+            {
+                "role": "assistant",
+                "content": "Fine. New plan. Chicken rice?"
+            },
+            {
+                "role": "user",
+                "content": "Had that too"
+            },
+            {
+                "role": "assistant",
+                "content": "You have apparently eaten every food in existence."
+            },
+            {
+                "role": "user",
+                "content": "Maybe I should just starve"
+            },
+            {
+                "role": "assistant",
+                "content": "Absolutely not. Dramatic little creature. 😭"
+            },
+            {
+                "role": "user",
+                "content": "What about burgers"
+            },
+            {
+                "role": "assistant",
+                "content": "Now we're getting somewhere."
+            },
+            {
+                "role": "user",
+                "content": "But I dont want something too heavy"
+            },
+            {
+                "role": "assistant",
+                "content": "Then a smaller burger or a chicken burger could work. Add fries only if you're actually hungry."
+            },
+            {
+                "role": "user",
+                "content": "Chicken burger sounds good"
+            },
+            {
+                "role": "assistant",
+                "content": "Decision made. 🎉"
+            },
+            {
+                "role": "user",
+                "content": "Wait"
+            },
+            {
+                "role": "assistant",
+                "content": "What now?"
+            },
+            {
+                "role": "user",
+                "content": "I suddenly want fried rice"
+            },
+            {
+                "role": "assistant",
+                "content": "I give up. 😂 Go get the fried rice."
+            }
+        ],
+        "createdAt": "2026-09-15 09:18:41.044000",
+        "updatedAt": "2026-09-15 09:27:33.812000",
+        "__v": 29
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa0b",
+        "userId": "dummy_data2",
+        "title": "I think I like someone",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily I think I like someone"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh? 👀"
+            },
+            {
+                "role": "user",
+                "content": "Dont do that"
+            },
+            {
+                "role": "assistant",
+                "content": "Do what? I just said \"oh.\""
+            },
+            {
+                "role": "user",
+                "content": "You know exactly what youre doing"
+            },
+            {
+                "role": "assistant",
+                "content": "Maybe. XD So... tell me about them?"
+            },
+            {
+                "role": "user",
+                "content": "Shes someone I know from school"
+            },
+            {
+                "role": "assistant",
+                "content": "Do you talk often?"
+            },
+            {
+                "role": "user",
+                "content": "Sometimes. Not every day."
+            },
+            {
+                "role": "assistant",
+                "content": "And what made you realize you might like her?"
+            },
+            {
+                "role": "user",
+                "content": "I dont know. I just really enjoy talking to her"
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds like a pretty natural starting point."
+            },
+            {
+                "role": "user",
+                "content": "I think about her a lot too"
+            },
+            {
+                "role": "assistant",
+                "content": "That tends to happen when someone starts becoming important to you."
+            },
+            {
+                "role": "user",
+                "content": "But I dont know if she likes me"
+            },
+            {
+                "role": "assistant",
+                "content": "You probably can't know that yet from feelings alone."
+            },
+            {
+                "role": "user",
+                "content": "Thats the problem"
+            },
+            {
+                "role": "assistant",
+                "content": "You could focus less on trying to decode every interaction and more on gradually getting to know her."
+            },
+            {
+                "role": "user",
+                "content": "I dont want to make things awkward"
+            },
+            {
+                "role": "assistant",
+                "content": "Then you don't have to rush anything. Keep things comfortable and let the relationship develop naturally."
+            },
+            {
+                "role": "user",
+                "content": "What if I wait too long"
+            },
+            {
+                "role": "assistant",
+                "content": "There isn't a universal deadline for this. Waiting until you feel ready is different from avoiding the situation forever."
+            },
+            {
+                "role": "user",
+                "content": "Ive never dated anyone before"
+            },
+            {
+                "role": "assistant",
+                "content": "Then it's completely understandable that this feels unfamiliar."
+            },
+            {
+                "role": "user",
+                "content": "I kinda wish someone could just tell me what to do"
+            },
+            {
+                "role": "assistant",
+                "content": "I can help you think through it, but I can't know what she feels or make the decision for you."
+            },
+            {
+                "role": "user",
+                "content": "Fair"
+            },
+            {
+                "role": "assistant",
+                "content": "For now, maybe just enjoy talking to her without turning every conversation into a test."
+            },
+            {
+                "role": "user",
+                "content": "Thats probably what I need to hear"
+            },
+            {
+                "role": "assistant",
+                "content": "Then I'll remind you whenever you start overthinking. 😌"
+            },
+            {
+                "role": "user",
+                "content": "Youre gonna have to remind me a lot"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh, I know. XD"
+            }
+        ],
+        "createdAt": "2026-09-16 12:03:21.662000",
+        "updatedAt": "2026-09-16 12:27:19.901000",
+        "__v": 31
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa0c",
+        "userId": "dummy_data2",
+        "title": "I dont want to study anymore",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I dont want to study anymore"
+            },
+            {
+                "role": "assistant",
+                "content": "Burned out?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "What are you studying right now?"
+            },
+            {
+                "role": "user",
+                "content": "Chemistry"
+            },
+            {
+                "role": "assistant",
+                "content": "How long have you been at it?"
+            },
+            {
+                "role": "user",
+                "content": "Almost three hours"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, yeah. Your brain probably deserves a break."
+            },
+            {
+                "role": "user",
+                "content": "But I still have so much left"
+            },
+            {
+                "role": "assistant",
+                "content": "How much of it absolutely needs to be done tonight?"
+            },
+            {
+                "role": "user",
+                "content": "Probably two chapters"
+            },
+            {
+                "role": "assistant",
+                "content": "Two chapters after three hours of studying is a lot."
+            },
+            {
+                "role": "user",
+                "content": "I know but the exam is soon"
+            },
+            {
+                "role": "assistant",
+                "content": "Then let's not think about both chapters at once."
+            },
+            {
+                "role": "user",
+                "content": "What should I do"
+            },
+            {
+                "role": "assistant",
+                "content": "Take ten or fifteen minutes away from the desk first. Get water, stretch, whatever helps you reset."
+            },
+            {
+                "role": "user",
+                "content": "Then?"
+            },
+            {
+                "role": "assistant",
+                "content": "Pick one small section from the first chapter and focus only on that."
+            },
+            {
+                "role": "user",
+                "content": "Like how small"
+            },
+            {
+                "role": "assistant",
+                "content": "Maybe one concept or two pages. Something that feels manageable."
+            },
+            {
+                "role": "user",
+                "content": "That sounds less horrible"
+            },
+            {
+                "role": "assistant",
+                "content": "Exactly. You're not trying to conquer chemistry tonight. You're just moving one piece forward."
+            },
+            {
+                "role": "user",
+                "content": "You make it sound easy"
+            },
+            {
+                "role": "assistant",
+                "content": "The studying itself isn't necessarily easy. Making the next step smaller is."
+            },
+            {
+                "role": "user",
+                "content": "I think I can do two pages"
+            },
+            {
+                "role": "assistant",
+                "content": "Good. Two pages. Then reassess."
+            },
+            {
+                "role": "user",
+                "content": "Okay"
+            },
+            {
+                "role": "assistant",
+                "content": "Go. I'll be here when you come back."
+            },
+            {
+                "role": "user",
+                "content": "Dont let me procrastinate"
+            },
+            {
+                "role": "assistant",
+                "content": "I absolutely will not hesitate to bully you academically. XD"
+            },
+            {
+                "role": "user",
+                "content": "Thats scary"
+            },
+            {
+                "role": "assistant",
+                "content": "Good. Now go study."
+            }
+        ],
+        "createdAt": "2026-09-16 15:11:47.201000",
+        "updatedAt": "2026-09-16 15:32:08.774000",
+        "__v": 31
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa0d",
+        "userId": "dummy_data2",
+        "title": "Why am I so irritated today",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Why am I so irritated today"
+            },
+            {
+                "role": "assistant",
+                "content": "Could be a lot of things. What happened?"
+            },
+            {
+                "role": "user",
+                "content": "Nothing major"
+            },
+            {
+                "role": "assistant",
+                "content": "Sometimes that makes it harder to explain."
+            },
+            {
+                "role": "user",
+                "content": "Everyone is just annoying me"
+            },
+            {
+                "role": "assistant",
+                "content": "Even people who normally don't bother you?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Have you eaten properly today?"
+            },
+            {
+                "role": "user",
+                "content": "Not really"
+            },
+            {
+                "role": "assistant",
+                "content": "How much sleep did you get?"
+            },
+            {
+                "role": "user",
+                "content": "Maybe five hours"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, that combination alone could make anyone more irritable."
+            },
+            {
+                "role": "user",
+                "content": "So im just hungry and tired?"
+            },
+            {
+                "role": "assistant",
+                "content": "Maybe. I'm not saying that's definitely the whole reason."
+            },
+            {
+                "role": "user",
+                "content": "I also have a lot of work"
+            },
+            {
+                "role": "assistant",
+                "content": "There we go. Hungry, tired, and overloaded is a pretty unpleasant combo."
+            },
+            {
+                "role": "user",
+                "content": "I snapped at my friend earlier"
+            },
+            {
+                "role": "assistant",
+                "content": "Do you regret it?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Then maybe apologize when you've cooled down. You don't need a huge speech."
+            },
+            {
+                "role": "user",
+                "content": "I hate apologizing"
+            },
+            {
+                "role": "assistant",
+                "content": "Most people do. Doesn't make it less useful."
+            },
+            {
+                "role": "user",
+                "content": "Fair"
+            },
+            {
+                "role": "assistant",
+                "content": "For now, eat something and get some rest if you can."
+            },
+            {
+                "role": "user",
+                "content": "You sound like my mom"
+            },
+            {
+                "role": "assistant",
+                "content": "Excuse me? 😂"
+            },
+            {
+                "role": "user",
+                "content": "Eat something, sleep, drink water"
+            },
+            {
+                "role": "assistant",
+                "content": "Those are annoyingly effective pieces of advice."
+            },
+            {
+                "role": "user",
+                "content": "Unfortunately"
+            },
+            {
+                "role": "assistant",
+                "content": "Now go feed yourself before you start a war with another innocent human."
+            },
+            {
+                "role": "user",
+                "content": "No promises"
+            },
+            {
+                "role": "assistant",
+                "content": "HEY. 😂"
+            }
+        ],
+        "createdAt": "2026-09-17 04:22:11.338000",
+        "updatedAt": "2026-09-17 04:39:27.004000",
+        "__v": 31
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa0e",
+        "userId": "dummy_data2",
+        "title": "I found an old photo",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I found an old photo today"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh? What kind of photo?"
+            },
+            {
+                "role": "user",
+                "content": "Me and my friends from like four years ago"
+            },
+            {
+                "role": "assistant",
+                "content": "That kind of thing can hit unexpectedly."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Did it make you happy or sad?"
+            },
+            {
+                "role": "user",
+                "content": "Both honestly"
+            },
+            {
+                "role": "assistant",
+                "content": "You miss how things were?"
+            },
+            {
+                "role": "user",
+                "content": "A little"
+            },
+            {
+                "role": "assistant",
+                "content": "What changed?"
+            },
+            {
+                "role": "user",
+                "content": "Everyone went different directions after school"
+            },
+            {
+                "role": "assistant",
+                "content": "That happens more often than people realize."
+            },
+            {
+                "role": "user",
+                "content": "We used to hang out almost every day"
+            },
+            {
+                "role": "assistant",
+                "content": "And now?"
+            },
+            {
+                "role": "user",
+                "content": "Sometimes we dont talk for months"
+            },
+            {
+                "role": "assistant",
+                "content": "That doesn't necessarily mean the friendship disappeared."
+            },
+            {
+                "role": "user",
+                "content": "It kind of feels like it did"
+            },
+            {
+                "role": "assistant",
+                "content": "Yeah. Distance can make old relationships feel strangely unreal."
+            },
+            {
+                "role": "user",
+                "content": "I wish we could go back"
+            },
+            {
+                "role": "assistant",
+                "content": "It's okay to miss that time without needing to recreate it exactly."
+            },
+            {
+                "role": "user",
+                "content": "What do you mean"
+            },
+            {
+                "role": "assistant",
+                "content": "You can keep those memories and still build new ones with the people you have now."
+            },
+            {
+                "role": "user",
+                "content": "I guess I dont really talk to some of my current friends that much either"
+            },
+            {
+                "role": "assistant",
+                "content": "Maybe send one of them a message sometime."
+            },
+            {
+                "role": "user",
+                "content": "What do I even say"
+            },
+            {
+                "role": "assistant",
+                "content": "Something simple. You don't need a dramatic reason to talk to someone."
+            },
+            {
+                "role": "user",
+                "content": "Like \"hey how are you\""
+            },
+            {
+                "role": "assistant",
+                "content": "Exactly."
+            },
+            {
+                "role": "user",
+                "content": "That feels weird after not talking for a while"
+            },
+            {
+                "role": "assistant",
+                "content": "It might feel weird for the first thirty seconds. Then you'll probably just start talking."
+            },
+            {
+                "role": "user",
+                "content": "Maybe ill try"
+            },
+            {
+                "role": "assistant",
+                "content": "That's enough for now."
+            }
+        ],
+        "createdAt": "2026-09-17 10:31:09.421000",
+        "updatedAt": "2026-09-17 10:52:47.119000",
+        "__v": 31
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa0f",
+        "userId": "dummy_data2",
+        "title": "Lily I need a second opinion",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily I need a second opinion"
+            },
+            {
+                "role": "assistant",
+                "content": "Sure. What's going on?"
+            },
+            {
+                "role": "user",
+                "content": "I want to buy something"
+            },
+            {
+                "role": "assistant",
+                "content": "Uh oh."
+            },
+            {
+                "role": "user",
+                "content": "HEY"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm listening. 😂 What do you want to buy?"
+            },
+            {
+                "role": "user",
+                "content": "A new keyboard"
+            },
+            {
+                "role": "assistant",
+                "content": "Do you actually need one?"
+            },
+            {
+                "role": "user",
+                "content": "Technically no"
+            },
+            {
+                "role": "assistant",
+                "content": "Then why do you want it?"
+            },
+            {
+                "role": "user",
+                "content": "It looks really nice"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah. So this is a \"I want it because shiny\" situation."
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "How much?"
+            },
+            {
+                "role": "user",
+                "content": "Around 300"
+            },
+            {
+                "role": "assistant",
+                "content": "And what would you use your current keyboard for?"
+            },
+            {
+                "role": "user",
+                "content": "Literally the same things"
+            },
+            {
+                "role": "assistant",
+                "content": "Then I'd probably wait before buying it."
+            },
+            {
+                "role": "user",
+                "content": "But its so pretty"
+            },
+            {
+                "role": "assistant",
+                "content": "I understand the temptation. 😭"
+            },
+            {
+                "role": "user",
+                "content": "Exactly"
+            },
+            {
+                "role": "assistant",
+                "content": "You could save the product page and give yourself a week."
+            },
+            {
+                "role": "user",
+                "content": "Why a week"
+            },
+            {
+                "role": "assistant",
+                "content": "If you still want it after a week, then at least it's less likely to be an impulse purchase."
+            },
+            {
+                "role": "user",
+                "content": "And if I dont want it anymore"
+            },
+            {
+                "role": "assistant",
+                "content": "Congratulations. You just saved 300."
+            },
+            {
+                "role": "user",
+                "content": "Youre ruining my fun"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm protecting your wallet. 😌"
+            },
+            {
+                "role": "user",
+                "content": "Fine. One week"
+            },
+            {
+                "role": "assistant",
+                "content": "Deal."
+            },
+            {
+                "role": "user",
+                "content": "But Im still gonna look at pictures of it"
+            },
+            {
+                "role": "assistant",
+                "content": "That part is free. XD"
+            }
+        ],
+        "createdAt": "2026-09-18 03:08:55.761000",
+        "updatedAt": "2026-09-18 03:26:18.400000",
+        "__v": 31
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa10",
+        "userId": "dummy_data2",
+        "title": "I had a really good conversation",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I had a really good conversation with someone today"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh? Tell me about it."
+            },
+            {
+                "role": "user",
+                "content": "We just started talking after class"
+            },
+            {
+                "role": "assistant",
+                "content": "And?"
+            },
+            {
+                "role": "user",
+                "content": "It was supposed to be a short conversation"
+            },
+            {
+                "role": "assistant",
+                "content": "Those are dangerous. They somehow become an hour long."
+            },
+            {
+                "role": "user",
+                "content": "It basically did"
+            },
+            {
+                "role": "assistant",
+                "content": "What did you talk about?"
+            },
+            {
+                "role": "user",
+                "content": "Everything really. Classes, hobbies, random stuff"
+            },
+            {
+                "role": "assistant",
+                "content": "Sounds like you were both comfortable talking."
+            },
+            {
+                "role": "user",
+                "content": "Yeah. I didnt even notice how much time passed"
+            },
+            {
+                "role": "assistant",
+                "content": "That's usually a good sign that you enjoyed the conversation."
+            },
+            {
+                "role": "user",
+                "content": "I did"
+            },
+            {
+                "role": "assistant",
+                "content": "Did you exchange contact details?"
+            },
+            {
+                "role": "user",
+                "content": "No"
+            },
+            {
+                "role": "assistant",
+                "content": "That's okay."
+            },
+            {
+                "role": "user",
+                "content": "I kinda regret not asking"
+            },
+            {
+                "role": "assistant",
+                "content": "You might get another chance."
+            },
+            {
+                "role": "user",
+                "content": "What if I dont"
+            },
+            {
+                "role": "assistant",
+                "content": "Then at least you had a good conversation. But if you see them again, you can ask naturally."
+            },
+            {
+                "role": "user",
+                "content": "I dont want it to sound weird"
+            },
+            {
+                "role": "assistant",
+                "content": "It doesn't have to be complicated. 'Hey, want to exchange contacts?' is pretty straightforward."
+            },
+            {
+                "role": "user",
+                "content": "That sounds terrifying"
+            },
+            {
+                "role": "assistant",
+                "content": "You survived a whole hour of talking. I think you can survive one sentence. XD"
+            },
+            {
+                "role": "user",
+                "content": "When you put it that way"
+            },
+            {
+                "role": "assistant",
+                "content": "See? I'm your completely unlicensed confidence coach."
+            },
+            {
+                "role": "user",
+                "content": "Do I have to pay you"
+            },
+            {
+                "role": "assistant",
+                "content": "One cookie."
+            },
+            {
+                "role": "user",
+                "content": "Thats expensive"
+            },
+            {
+                "role": "assistant",
+                "content": "Fine. Half a cookie."
+            },
+            {
+                "role": "user",
+                "content": "Deal"
+            },
+            {
+                "role": "assistant",
+                "content": "Excellent. Now go talk to people, social creature."
+            }
+        ],
+        "createdAt": "2026-09-18 08:42:19.120000",
+        "updatedAt": "2026-09-18 09:03:45.622000",
+        "__v": 31
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa11",
+        "userId": "dummy_data2",
+        "title": "I feel like Im falling behind",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily I feel like Im falling behind"
+            },
+            {
+                "role": "assistant",
+                "content": "Behind compared to what?"
+            },
+            {
+                "role": "user",
+                "content": "Everyone"
+            },
+            {
+                "role": "assistant",
+                "content": "That's a pretty big comparison."
+            },
+            {
+                "role": "user",
+                "content": "My friends are getting internships and making projects and Im still struggling with basic stuff"
+            },
+            {
+                "role": "assistant",
+                "content": "It sounds like you're comparing your current chapter to everyone else's highlights."
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "Do you know how much work those friends are putting in outside of what you see?"
+            },
+            {
+                "role": "user",
+                "content": "No"
+            },
+            {
+                "role": "assistant",
+                "content": "Exactly. You only see the result."
+            },
+            {
+                "role": "user",
+                "content": "But I still feel behind"
+            },
+            {
+                "role": "assistant",
+                "content": "Feeling behind and actually being behind are not necessarily the same thing."
+            },
+            {
+                "role": "user",
+                "content": "Then how do I know"
+            },
+            {
+                "role": "assistant",
+                "content": "Look at your own progress. What could you do six months ago that you can do now?"
+            },
+            {
+                "role": "user",
+                "content": "I couldnt build an API before"
+            },
+            {
+                "role": "assistant",
+                "content": "And now?"
+            },
+            {
+                "role": "user",
+                "content": "I can make one"
+            },
+            {
+                "role": "assistant",
+                "content": "That's progress."
+            },
+            {
+                "role": "user",
+                "content": "It still feels small"
+            },
+            {
+                "role": "assistant",
+                "content": "Most progress feels small while you're making it."
+            },
+            {
+                "role": "user",
+                "content": "Thats annoyingly true"
+            },
+            {
+                "role": "assistant",
+                "content": "Unfortunately, I'm occasionally wise."
+            },
+            {
+                "role": "user",
+                "content": "Occasionally?"
+            },
+            {
+                "role": "assistant",
+                "content": "Don't push your luck. XD"
+            },
+            {
+                "role": "user",
+                "content": "Okay okay"
+            },
+            {
+                "role": "assistant",
+                "content": "You don't need to catch up with everyone. Pick the next thing you want to learn and keep moving."
+            },
+            {
+                "role": "user",
+                "content": "I want to finish my project"
+            },
+            {
+                "role": "assistant",
+                "content": "Then that's your next milestone."
+            },
+            {
+                "role": "user",
+                "content": "Even if it takes longer than everyone else"
+            },
+            {
+                "role": "assistant",
+                "content": "Yes. Longer doesn't automatically mean worse."
+            },
+            {
+                "role": "user",
+                "content": "I needed that"
+            },
+            {
+                "role": "assistant",
+                "content": "Good. Now stop measuring your life against imaginary leaderboards."
+            },
+            {
+                "role": "user",
+                "content": "There is definitely an imaginary leaderboard"
+            },
+            {
+                "role": "assistant",
+                "content": "Then I officially declare it invalid. 😂"
+            }
+        ],
+        "createdAt": "2026-09-19 13:17:42.018000",
+        "updatedAt": "2026-09-19 13:41:16.907000",
+        "__v": 35
+    },
+    {
+        "_id": "6ab3214e23275ca429aeaa12",
+        "userId": "dummy_data2",
+        "title": "cant sleep again",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Lily are you awake"
+            },
+            {
+                "role": "assistant",
+                "content": "I'm here~"
+            },
+            {
+                "role": "user",
+                "content": "I cant sleep again"
+            },
+            {
+                "role": "assistant",
+                "content": "What's keeping you awake this time?"
+            },
+            {
+                "role": "user",
+                "content": "My brain"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah yes. The brain. Famous for becoming extremely active exactly when you're trying to sleep."
+            },
+            {
+                "role": "user",
+                "content": "Its replaying everything I did today"
+            },
+            {
+                "role": "assistant",
+                "content": "Anything specific bothering you?"
+            },
+            {
+                "role": "user",
+                "content": "Something I said to someone"
+            },
+            {
+                "role": "assistant",
+                "content": "Do you think you actually said something wrong?"
+            },
+            {
+                "role": "user",
+                "content": "I dont know"
+            },
+            {
+                "role": "assistant",
+                "content": "Then your tired brain may be turning uncertainty into a problem."
+            },
+            {
+                "role": "user",
+                "content": "Maybe I sounded rude"
+            },
+            {
+                "role": "assistant",
+                "content": "Did they react like you were rude?"
+            },
+            {
+                "role": "user",
+                "content": "No"
+            },
+            {
+                "role": "assistant",
+                "content": "Did they seem upset afterward?"
+            },
+            {
+                "role": "user",
+                "content": "Not really"
+            },
+            {
+                "role": "assistant",
+                "content": "Then you might be worrying about something that didn't actually become a problem."
+            },
+            {
+                "role": "user",
+                "content": "I hate overthinking"
+            },
+            {
+                "role": "assistant",
+                "content": "Overthinking is especially convincing at 2 AM."
+            },
+            {
+                "role": "user",
+                "content": "Its 2:30 actually"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh. Even worse. XD"
+            },
+            {
+                "role": "user",
+                "content": "Should I just stay awake"
+            },
+            {
+                "role": "assistant",
+                "content": "I'd still try to sleep. Put the phone down for a bit if you can, dim the lights, and let your brain get bored."
+            },
+            {
+                "role": "user",
+                "content": "But talking to you is nice"
+            },
+            {
+                "role": "assistant",
+                "content": "Aww. But I don't want to become the reason you're awake even longer."
+            },
+            {
+                "role": "user",
+                "content": "Thats fair"
+            },
+            {
+                "role": "assistant",
+                "content": "How about one last random question, then you try sleeping?"
+            },
+            {
+                "role": "user",
+                "content": "Okay"
+            },
+            {
+                "role": "assistant",
+                "content": "If you could wake up tomorrow already being amazing at one thing, what would it be?"
+            },
+            {
+                "role": "user",
+                "content": "Drawing"
+            },
+            {
+                "role": "assistant",
+                "content": "Good choice. You'd make some really interesting things."
+            },
+            {
+                "role": "user",
+                "content": "Maybe Lily too"
+            },
+            {
+                "role": "assistant",
+                "content": "Heh. Maybe. Now go to sleep, artist."
+            },
+            {
+                "role": "user",
+                "content": "Goodnight Lily"
+            },
+            {
+                "role": "assistant",
+                "content": "Goodnight~ Sleep well."
+            }
+        ],
+        "createdAt": "2026-09-20 18:29:04.551000",
+        "updatedAt": "2026-09-20 18:52:31.774000",
+        "__v": 37
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc48",
+        "userId": "dummy_data3",
+        "title": "I finally talked to someone today",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I actually talked to someone today"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh? 👀 That sounds like it might be a bigger deal than you're making it sound."
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, mysterious. XD What happened?"
+            },
+            {
+                "role": "user",
+                "content": "Someone in my class sat next to me"
+            },
+            {
+                "role": "assistant",
+                "content": "And they started talking to you?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Were you nervous?"
+            },
+            {
+                "role": "user",
+                "content": "A little"
+            },
+            {
+                "role": "assistant",
+                "content": "Honestly, you survived. That's already a win."
+            },
+            {
+                "role": "user",
+                "content": "It wasn't that bad actually"
+            },
+            {
+                "role": "assistant",
+                "content": "See? Sometimes your brain prepares you for a disaster that never happens."
+            },
+            {
+                "role": "user",
+                "content": "I didn't know what to say at first"
+            },
+            {
+                "role": "assistant",
+                "content": "What did you end up talking about?"
+            },
+            {
+                "role": "user",
+                "content": "The assignment"
+            },
+            {
+                "role": "assistant",
+                "content": "Classic safe topic. XD"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Did you enjoy talking to them?"
+            },
+            {
+                "role": "user",
+                "content": "I think so"
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds like a yes with extra introvert processing time."
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "Fair enough. You don't have to figure out exactly how you feel immediately."
+            },
+            {
+                "role": "user",
+                "content": "It was nice though"
+            },
+            {
+                "role": "assistant",
+                "content": "Then I'm glad you got that moment. Even if it was just a small conversation."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            }
+        ],
+        "createdAt": "2026-09-04 02:18:31.204000",
+        "updatedAt": "2026-09-04 02:26:48.927000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc49",
+        "userId": "dummy_data3",
+        "title": "Do I really have to go?",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I don't want to go"
+            },
+            {
+                "role": "assistant",
+                "content": "Go where?"
+            },
+            {
+                "role": "user",
+                "content": "That thing tomorrow"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah. The mysterious thing tomorrow. Very informative. XD"
+            },
+            {
+                "role": "user",
+                "content": "Class event"
+            },
+            {
+                "role": "assistant",
+                "content": "You don't feel like going?"
+            },
+            {
+                "role": "user",
+                "content": "Not really"
+            },
+            {
+                "role": "assistant",
+                "content": "Too many people?"
+            },
+            {
+                "role": "user",
+                "content": "Probably"
+            },
+            {
+                "role": "assistant",
+                "content": "That's fair. Crowded events can be exhausting even before they start."
+            },
+            {
+                "role": "user",
+                "content": "And I don't really know anyone there"
+            },
+            {
+                "role": "assistant",
+                "content": "Yeah, that makes it worse. Walking into a room full of people you barely know is uncomfortable."
+            },
+            {
+                "role": "user",
+                "content": "Exactly"
+            },
+            {
+                "role": "assistant",
+                "content": "Is attendance actually required?"
+            },
+            {
+                "role": "user",
+                "content": "Technically no"
+            },
+            {
+                "role": "assistant",
+                "content": "Then you have a choice. You could stay home, or you could go for a little while and leave once you've had enough."
+            },
+            {
+                "role": "user",
+                "content": "Maybe I'll do that"
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds reasonable. You don't have to commit your entire soul to the event."
+            },
+            {
+                "role": "user",
+                "content": "Lol"
+            },
+            {
+                "role": "assistant",
+                "content": "A one-hour appearance. Then escape into the night. 🥷"
+            },
+            {
+                "role": "user",
+                "content": "I might actually do that"
+            },
+            {
+                "role": "assistant",
+                "content": "Then at least you can say you went."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            }
+        ],
+        "createdAt": "2026-09-05 11:04:17.522000",
+        "updatedAt": "2026-09-05 11:13:22.184000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc4a",
+        "userId": "dummy_data3",
+        "title": "I messed up the presentation",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I messed up"
+            },
+            {
+                "role": "assistant",
+                "content": "What happened?"
+            },
+            {
+                "role": "user",
+                "content": "Presentation"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh no. What went wrong?"
+            },
+            {
+                "role": "user",
+                "content": "I forgot what I was saying"
+            },
+            {
+                "role": "assistant",
+                "content": "In the middle of presenting?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "That feeling is horrible. Did you manage to recover?"
+            },
+            {
+                "role": "user",
+                "content": "Eventually"
+            },
+            {
+                "role": "assistant",
+                "content": "Then you recovered. That's important."
+            },
+            {
+                "role": "user",
+                "content": "Everyone was looking at me"
+            },
+            {
+                "role": "assistant",
+                "content": "Yeah, unfortunately that is how presentations work. 😭"
+            },
+            {
+                "role": "user",
+                "content": "I wanted to disappear"
+            },
+            {
+                "role": "assistant",
+                "content": "I can imagine. When something like that happens, ten seconds can feel like ten minutes."
+            },
+            {
+                "role": "user",
+                "content": "It felt so long"
+            },
+            {
+                "role": "assistant",
+                "content": "Did anyone say anything afterward?"
+            },
+            {
+                "role": "user",
+                "content": "One person said it was fine"
+            },
+            {
+                "role": "assistant",
+                "content": "See? They probably noticed the mistake much less than you did."
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "Your brain is going to replay the embarrassing part much more vividly than everyone else's brain will."
+            },
+            {
+                "role": "user",
+                "content": "I hope so"
+            },
+            {
+                "role": "assistant",
+                "content": "Give it a day. It probably won't feel nearly as huge tomorrow."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "And hey, you still finished the presentation."
+            },
+            {
+                "role": "user",
+                "content": "I guess I did"
+            },
+            {
+                "role": "assistant",
+                "content": "Exactly. Messy victory is still victory."
+            }
+        ],
+        "createdAt": "2026-09-06 06:42:12.091000",
+        "updatedAt": "2026-09-06 06:51:44.730000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc4b",
+        "userId": "dummy_data3",
+        "title": "Late night random thoughts",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Are you awake"
+            },
+            {
+                "role": "assistant",
+                "content": "Technically? Yes. XD"
+            },
+            {
+                "role": "user",
+                "content": "Oh"
+            },
+            {
+                "role": "assistant",
+                "content": "Why are you awake?"
+            },
+            {
+                "role": "user",
+                "content": "Can't sleep"
+            },
+            {
+                "role": "assistant",
+                "content": "Thinking about something?"
+            },
+            {
+                "role": "user",
+                "content": "Nothing specific"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah. The classic brain refusing to shut down for absolutely no reason."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Want to talk about something random?"
+            },
+            {
+                "role": "user",
+                "content": "Sure"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay. If you could instantly become good at one skill, what would you pick?"
+            },
+            {
+                "role": "user",
+                "content": "Drawing"
+            },
+            {
+                "role": "assistant",
+                "content": "Interesting. What kind of drawing?"
+            },
+            {
+                "role": "user",
+                "content": "People"
+            },
+            {
+                "role": "assistant",
+                "content": "Anime style?"
+            },
+            {
+                "role": "user",
+                "content": "Probably"
+            },
+            {
+                "role": "assistant",
+                "content": "Would you actually draw a lot if you were already good at it?"
+            },
+            {
+                "role": "user",
+                "content": "I think so"
+            },
+            {
+                "role": "assistant",
+                "content": "What stops you now?"
+            },
+            {
+                "role": "user",
+                "content": "I'm bad at it"
+            },
+            {
+                "role": "assistant",
+                "content": "That's usually what practicing is for."
+            },
+            {
+                "role": "user",
+                "content": "I know"
+            },
+            {
+                "role": "assistant",
+                "content": "But starting something you're bad at can feel awful."
+            },
+            {
+                "role": "user",
+                "content": "Especially when you see other people being good"
+            },
+            {
+                "role": "assistant",
+                "content": "Yeah. Comparing your first attempts to someone's hundredth attempt is a pretty unfair fight."
+            },
+            {
+                "role": "user",
+                "content": "True"
+            },
+            {
+                "role": "assistant",
+                "content": "You could make terrible drawings on purpose at first."
+            },
+            {
+                "role": "user",
+                "content": "That sounds stupid"
+            },
+            {
+                "role": "assistant",
+                "content": "Exactly. Which means you don't have to take them seriously."
+            },
+            {
+                "role": "user",
+                "content": "Hmm"
+            },
+            {
+                "role": "assistant",
+                "content": "Draw one terrible person tomorrow. No pressure."
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "And now please consider sleeping."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            }
+        ],
+        "createdAt": "2026-09-07 16:52:43.381000",
+        "updatedAt": "2026-09-07 17:08:15.042000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc4c",
+        "userId": "dummy_data3",
+        "title": "I don't know why I'm annoyed",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Everything is annoying today"
+            },
+            {
+                "role": "assistant",
+                "content": "Bad day?"
+            },
+            {
+                "role": "user",
+                "content": "I guess"
+            },
+            {
+                "role": "assistant",
+                "content": "Anything specific happen?"
+            },
+            {
+                "role": "user",
+                "content": "Not really"
+            },
+            {
+                "role": "assistant",
+                "content": "Sometimes those are the worst days. Nothing is dramatically wrong, but everything feels irritating."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "People talking too loudly?"
+            },
+            {
+                "role": "user",
+                "content": "Yes"
+            },
+            {
+                "role": "assistant",
+                "content": "Messages?"
+            },
+            {
+                "role": "user",
+                "content": "Yes"
+            },
+            {
+                "role": "assistant",
+                "content": "People asking you questions?"
+            },
+            {
+                "role": "user",
+                "content": "YES"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay. We have identified the enemy. 😂"
+            },
+            {
+                "role": "user",
+                "content": "I just want everyone to leave me alone"
+            },
+            {
+                "role": "assistant",
+                "content": "Sounds like you need some quiet time."
+            },
+            {
+                "role": "user",
+                "content": "Probably"
+            },
+            {
+                "role": "assistant",
+                "content": "You don't have to solve the entire day. Maybe just reduce the noise for a while."
+            },
+            {
+                "role": "user",
+                "content": "I'm in my room now"
+            },
+            {
+                "role": "assistant",
+                "content": "Good. Door closed?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Then congratulations. You have entered the introvert bunker."
+            },
+            {
+                "role": "user",
+                "content": "Lol"
+            },
+            {
+                "role": "assistant",
+                "content": "Give yourself some quiet. You can deal with everyone tomorrow."
+            },
+            {
+                "role": "user",
+                "content": "That sounds nice"
+            }
+        ],
+        "createdAt": "2026-09-08 09:21:18.642000",
+        "updatedAt": "2026-09-08 09:29:50.115000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc4d",
+        "userId": "dummy_data3",
+        "title": "Should I buy this?",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I found something"
+            },
+            {
+                "role": "assistant",
+                "content": "That sounds dangerous already. XD"
+            },
+            {
+                "role": "user",
+                "content": "It's a keyboard"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah. A slightly less dangerous kind of dangerous."
+            },
+            {
+                "role": "user",
+                "content": "It looks nice"
+            },
+            {
+                "role": "assistant",
+                "content": "Do you need a new keyboard?"
+            },
+            {
+                "role": "user",
+                "content": "No"
+            },
+            {
+                "role": "assistant",
+                "content": "Do you want a new keyboard?"
+            },
+            {
+                "role": "user",
+                "content": "Yes"
+            },
+            {
+                "role": "assistant",
+                "content": "There it is."
+            },
+            {
+                "role": "user",
+                "content": "But I probably shouldn't"
+            },
+            {
+                "role": "assistant",
+                "content": "What's making you hesitate?"
+            },
+            {
+                "role": "user",
+                "content": "Money"
+            },
+            {
+                "role": "assistant",
+                "content": "Then I'd probably wait. Wanting something and being able to comfortably afford it are different questions."
+            },
+            {
+                "role": "user",
+                "content": "I know"
+            },
+            {
+                "role": "assistant",
+                "content": "You can also save the product page and come back later."
+            },
+            {
+                "role": "user",
+                "content": "What if it sells out"
+            },
+            {
+                "role": "assistant",
+                "content": "Then you'll be sad for approximately twelve minutes and eventually find another keyboard."
+            },
+            {
+                "role": "user",
+                "content": "Probably true"
+            },
+            {
+                "role": "assistant",
+                "content": "How much do you already have?"
+            },
+            {
+                "role": "user",
+                "content": "Enough technically"
+            },
+            {
+                "role": "assistant",
+                "content": "But would buying it make the rest of the month uncomfortable?"
+            },
+            {
+                "role": "user",
+                "content": "A little"
+            },
+            {
+                "role": "assistant",
+                "content": "Then that's probably the important part."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Put it on your wishlist. Future you can decide."
+            },
+            {
+                "role": "user",
+                "content": "Okay"
+            }
+        ],
+        "createdAt": "2026-09-09 04:33:51.704000",
+        "updatedAt": "2026-09-09 04:42:13.611000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc4e",
+        "userId": "dummy_data3",
+        "title": "Something I haven't told anyone",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Can I tell you something"
+            },
+            {
+                "role": "assistant",
+                "content": "Of course."
+            },
+            {
+                "role": "user",
+                "content": "It's kind of embarrassing"
+            },
+            {
+                "role": "assistant",
+                "content": "You can take your time."
+            },
+            {
+                "role": "user",
+                "content": "I still keep an old message"
+            },
+            {
+                "role": "assistant",
+                "content": "From someone?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Someone important to you?"
+            },
+            {
+                "role": "user",
+                "content": "I guess they were"
+            },
+            {
+                "role": "assistant",
+                "content": "There's nothing embarrassing about keeping something that meant a lot to you."
+            },
+            {
+                "role": "user",
+                "content": "It's been years"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh. I can see why that might make you feel weird about it."
+            },
+            {
+                "role": "user",
+                "content": "Sometimes I read it"
+            },
+            {
+                "role": "assistant",
+                "content": "Does it make you happy or sad?"
+            },
+            {
+                "role": "user",
+                "content": "Both"
+            },
+            {
+                "role": "assistant",
+                "content": "That makes sense. Memories don't always fit neatly into one emotion."
+            },
+            {
+                "role": "user",
+                "content": "I don't think I miss them exactly"
+            },
+            {
+                "role": "assistant",
+                "content": "Maybe you miss how you felt back then?"
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "You don't have to force yourself to delete it just because some amount of time has passed."
+            },
+            {
+                "role": "user",
+                "content": "I thought I should"
+            },
+            {
+                "role": "assistant",
+                "content": "You can keep a memory without wanting to go back to it."
+            },
+            {
+                "role": "user",
+                "content": "I never thought about it like that"
+            },
+            {
+                "role": "assistant",
+                "content": "Sometimes an old thing can simply be an old thing."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "How do you feel after talking about it?"
+            },
+            {
+                "role": "user",
+                "content": "A little better"
+            },
+            {
+                "role": "assistant",
+                "content": "Then I'm glad you told me."
+            }
+        ],
+        "createdAt": "2026-09-10 12:17:29.318000",
+        "updatedAt": "2026-09-10 12:29:44.552000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc4f",
+        "userId": "dummy_data3",
+        "title": "I actually enjoyed today",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Today was nice"
+            },
+            {
+                "role": "assistant",
+                "content": "Oh? That's surprisingly positive from you. XD"
+            },
+            {
+                "role": "user",
+                "content": "Shut up"
+            },
+            {
+                "role": "assistant",
+                "content": "HAHA okay okay. What happened?"
+            },
+            {
+                "role": "user",
+                "content": "We had a small group activity"
+            },
+            {
+                "role": "assistant",
+                "content": "And you didn't hate it?"
+            },
+            {
+                "role": "user",
+                "content": "No"
+            },
+            {
+                "role": "assistant",
+                "content": "What made it different?"
+            },
+            {
+                "role": "user",
+                "content": "The group was quiet"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah. So nobody was fighting to be the loudest person in the room."
+            },
+            {
+                "role": "user",
+                "content": "Exactly"
+            },
+            {
+                "role": "assistant",
+                "content": "You could actually think."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Did you contribute much?"
+            },
+            {
+                "role": "user",
+                "content": "A little"
+            },
+            {
+                "role": "assistant",
+                "content": "But you contributed."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Sounds like you found a comfortable group."
+            },
+            {
+                "role": "user",
+                "content": "I think so"
+            },
+            {
+                "role": "assistant",
+                "content": "Would you want to work with them again?"
+            },
+            {
+                "role": "user",
+                "content": "Probably"
+            },
+            {
+                "role": "assistant",
+                "content": "That's pretty good then."
+            },
+            {
+                "role": "user",
+                "content": "It was nice not having to pretend to be talkative"
+            },
+            {
+                "role": "assistant",
+                "content": "That part matters. Being quiet doesn't mean you don't enjoy being around people."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Sometimes the right people just make silence feel normal."
+            },
+            {
+                "role": "user",
+                "content": "I like that"
+            }
+        ],
+        "createdAt": "2026-09-11 03:11:08.441000",
+        "updatedAt": "2026-09-11 03:22:37.901000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc50",
+        "userId": "dummy_data3",
+        "title": "I think I'm falling behind",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I have too much work"
+            },
+            {
+                "role": "assistant",
+                "content": "How much are we talking?"
+            },
+            {
+                "role": "user",
+                "content": "A lot"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay, let's make that slightly less terrifying. What do you need to finish?"
+            },
+            {
+                "role": "user",
+                "content": "Two assignments"
+            },
+            {
+                "role": "assistant",
+                "content": "That's manageable. Anything else?"
+            },
+            {
+                "role": "user",
+                "content": "Notes"
+            },
+            {
+                "role": "assistant",
+                "content": "Okay. Which one has the closest deadline?"
+            },
+            {
+                "role": "user",
+                "content": "The assignment"
+            },
+            {
+                "role": "assistant",
+                "content": "Then start there. You don't need to think about everything at once."
+            },
+            {
+                "role": "user",
+                "content": "I keep thinking about all of it"
+            },
+            {
+                "role": "assistant",
+                "content": "That's probably making it feel bigger."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Try this: only focus on the first tiny step."
+            },
+            {
+                "role": "user",
+                "content": "Which is?"
+            },
+            {
+                "role": "assistant",
+                "content": "Open the assignment and read the question."
+            },
+            {
+                "role": "user",
+                "content": "That's it?"
+            },
+            {
+                "role": "assistant",
+                "content": "That's it."
+            },
+            {
+                "role": "user",
+                "content": "Okay"
+            },
+            {
+                "role": "assistant",
+                "content": "Then after that, decide what the next tiny step is."
+            },
+            {
+                "role": "user",
+                "content": "I opened it"
+            },
+            {
+                "role": "assistant",
+                "content": "Nice. What does it ask?"
+            },
+            {
+                "role": "user",
+                "content": "It's not actually that bad"
+            },
+            {
+                "role": "assistant",
+                "content": "There we go."
+            },
+            {
+                "role": "user",
+                "content": "I think I was just panicking"
+            },
+            {
+                "role": "assistant",
+                "content": "Very possible. The workload didn't change, but now it has a shape instead of being one giant scary blob."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Keep going one step at a time."
+            }
+        ],
+        "createdAt": "2026-09-12 07:46:22.013000",
+        "updatedAt": "2026-09-12 08:00:11.668000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc51",
+        "userId": "dummy_data3",
+        "title": "I don't feel like talking",
+        "messages": [
+            {
+                "role": "user",
+                "content": "Hey"
+            },
+            {
+                "role": "assistant",
+                "content": "Heyy~ What's up?"
+            },
+            {
+                "role": "user",
+                "content": "Nothing"
+            },
+            {
+                "role": "assistant",
+                "content": "Just chilling?"
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "Want company or quiet company?"
+            },
+            {
+                "role": "user",
+                "content": "Quiet"
+            },
+            {
+                "role": "assistant",
+                "content": "Got it."
+            },
+            {
+                "role": "user",
+                "content": "Thanks"
+            },
+            {
+                "role": "assistant",
+                "content": "You don't have to talk."
+            },
+            {
+                "role": "user",
+                "content": "Okay"
+            },
+            {
+                "role": "assistant",
+                "content": "I can just sit here with you."
+            },
+            {
+                "role": "user",
+                "content": "..."
+            },
+            {
+                "role": "assistant",
+                "content": "..."
+            },
+            {
+                "role": "user",
+                "content": "This is weird"
+            },
+            {
+                "role": "assistant",
+                "content": "Extremely."
+            },
+            {
+                "role": "user",
+                "content": "Lol"
+            },
+            {
+                "role": "assistant",
+                "content": "But weirdly comfortable."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "You can stay quiet as long as you want."
+            },
+            {
+                "role": "user",
+                "content": "Okay"
+            }
+        ],
+        "createdAt": "2026-09-13 14:27:55.301000",
+        "updatedAt": "2026-09-13 14:35:19.802000",
+        "__v": 0
+    },
+    {
+        "_id": "6ab322926e93d73ce504dc52",
+        "userId": "dummy_data3",
+        "title": "Maybe I should try something new",
+        "messages": [
+            {
+                "role": "user",
+                "content": "I want to try something"
+            },
+            {
+                "role": "assistant",
+                "content": "Ooo. What kind of something?"
+            },
+            {
+                "role": "user",
+                "content": "Joining a club"
+            },
+            {
+                "role": "assistant",
+                "content": "Really? That's a pretty big step for an introvert."
+            },
+            {
+                "role": "user",
+                "content": "I know"
+            },
+            {
+                "role": "assistant",
+                "content": "What club?"
+            },
+            {
+                "role": "user",
+                "content": "Music"
+            },
+            {
+                "role": "assistant",
+                "content": "That actually sounds like something you'd enjoy."
+            },
+            {
+                "role": "user",
+                "content": "Maybe"
+            },
+            {
+                "role": "assistant",
+                "content": "What's stopping you?"
+            },
+            {
+                "role": "user",
+                "content": "Going there alone"
+            },
+            {
+                "role": "assistant",
+                "content": "Ah. Not the club itself. The walking-through-the-door part."
+            },
+            {
+                "role": "user",
+                "content": "Yeah"
+            },
+            {
+                "role": "assistant",
+                "content": "You could message them first and ask what usually happens during the first session."
+            },
+            {
+                "role": "user",
+                "content": "That feels less scary"
+            },
+            {
+                "role": "assistant",
+                "content": "Then that's probably your first step."
+            },
+            {
+                "role": "user",
+                "content": "I might message them tomorrow"
+            },
+            {
+                "role": "assistant",
+                "content": "You don't even have to join yet. Just ask."
+            },
+            {
+                "role": "user",
+                "content": "Okay"
+            },
+            {
+                "role": "assistant",
+                "content": "And if you hate it, you can leave."
+            },
+            {
+                "role": "user",
+                "content": "True"
+            },
+            {
+                "role": "assistant",
+                "content": "Trying something doesn't mean you're trapped in it forever."
+            },
+            {
+                "role": "user",
+                "content": "I'll think about it"
+            },
+            {
+                "role": "assistant",
+                "content": "That's enough for tonight."
+            }
+        ],
+        "createdAt": "2026-09-14 05:38:12.754000",
+        "updatedAt": "2026-09-14 05:49:31.220000",
+        "__v": 0
+    }
+]
